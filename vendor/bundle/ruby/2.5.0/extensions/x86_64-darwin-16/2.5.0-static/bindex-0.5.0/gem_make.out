@@ -1,0 +1,15 @@
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/a80805/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180601-60119-gbjyks.rb extconf.rb
+creating Makefile
+
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20180601-60119-tdlye7/bindex

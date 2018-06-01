@@ -1,0 +1,15 @@
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+/Users/a80805/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180601-60119-12fy6yj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/a80805/github/gotyoooo/spajam2018-server/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20180601-60119-18sz5uf/bootsnap
